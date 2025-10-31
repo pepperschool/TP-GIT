@@ -1,3 +1,3 @@
 # TP-GIT
 
-Ce projet gère plusieurs tâches 
+ Ce projet gère plusieurs tâche
